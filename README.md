@@ -1,5 +1,6 @@
 # 🌤️ Live Weather App
-
+## 🚀 Live Demo
+**[👉 Click Here to View Live App](https://sudhamaurya9207-spec.github.io/Live-weather-App/)**
 A simple and beginner-friendly *Live Weather App* built using HTML, CSS, and JavaScript.
 
 This app allows users to search for a city and check its current weather information using a weather API.
@@ -13,7 +14,7 @@ This app allows users to search for a city and check its current weather informa
 - 💨 Shows wind speed
 - 📍 Shows location
 - ⚡ Fetches live weather data using an API
-- ❌ Handles invalid city names
+-  Handles invalid city names
 - 📱 Simple and responsive design
 
 ## 🛠️ Technologies Used
